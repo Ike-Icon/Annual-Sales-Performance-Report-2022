@@ -6,7 +6,7 @@ and customer segments.
 
 ## 🔗 Live Links
 - [🌐 Portfolio Website](https://ike-icon.github.io/data_analyst_portfolio/)
-- [📊 Excel File](https://github.com/Ike-Icon/Credit-Card-Fraud-Detection/raw/refs/heads/main/fraud_analysis.pbix)
+- [📊 Excel File](Report.xlsx)
 
 ## Overview
 Zues Clothing Line generated $21,176,377 in revenue from 31,237 orders 
