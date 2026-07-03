@@ -15,7 +15,6 @@ sales channel, and customer demographics to surface where revenue comes
 from and where the business is leaking money.
 
 ## Key Findings
-
 - **Revenue**: $21.18M total, average order value $682.07
 - **Peak season**: March ($1.93M / 2,819 orders), strong through May
 - **Decline**: Steady drop from June through November
@@ -49,7 +48,6 @@ from and where the business is leaking money.
 <img src="/order_status.png" alt="Logo" width="300"/>
 
 ## Recommendations
-
 1. Target adult women in marketing, they drive 64% of revenue
 2. Prioritize spend on Amazon and Myntra, the top two channels
 3. Promote Sets and Kurtas, the highest-selling categories
@@ -57,10 +55,8 @@ from and where the business is leaking money.
 5. Investigate cancellation and return rates to protect net revenue
 
 ## Tools Used
-
 Excel: pivot tables, slicers, dashboard design, data cleaning
 
 ## Note
-
 Location data in this dataset has been localized to Ghana for practice 
 purposes.
